@@ -1,7 +1,7 @@
 django==4.2
-waitress
+gunicorn
 django-dotenv
-psycopg2-binary
+psycopg==3.2.3
 requests
 django-storages
 boto3
