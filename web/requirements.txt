@@ -1,0 +1,7 @@
+django==4.2
+waitress
+django-dotenv
+psycopg2-binary
+requests
+django-storages
+boto3
